@@ -30,6 +30,8 @@ If the user is not registered, then he would have a prompt to register/login, ot
 
 The products details will be available on our cloud storage Mongodb atlas, which will be retrieved using our API and then displayed to user
 
+![Screenshot_1](https://user-images.githubusercontent.com/72596312/188300661-7ba05735-2a05-48fa-811d-a1ef888581f7.png)
+
 ![products](https://user-images.githubusercontent.com/72596312/188275972-c5cd14a5-636c-4cb5-834e-0b90214cc32a.png)
 
 User will be able to filter out their preference based on search strings
