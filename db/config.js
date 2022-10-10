@@ -1,6 +1,6 @@
 
 const mongoose = require('mongoose')
-const mongoAtlasUri = "mongodb+srv://admin:a12345678@cluster0.ppt3iqy.mongodb.net/E-dashboard?retryWrites=true&w=majority"
+const mongoAtlasUri = "mongodb+srv://admin:PASSWORD@cluster0.ppt3iqy.mongodb.net/E-dashboard?retryWrites=true&w=majority"
 
 try {
     // Connect to the MongoDB cluster
